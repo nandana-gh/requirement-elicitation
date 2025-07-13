@@ -1,0 +1,4 @@
+proposition_id,requirement_id,proposition_statement,proposition_type
+P1,R1,raj is good,statement
+P2,R2,raj is not good,statement
+P3,R3,laxman is his friend,statement

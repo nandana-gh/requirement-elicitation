@@ -1,0 +1,6 @@
+requirement_id,requirement_statement
+R1,The system shall accept user input and validate it before processing.
+R2,The software must provide real-time monitoring of system performance.
+R3,The application shall enable users to export data in multiple formats.
+R4,The system must handle concurrent user sessions without conflicts.
+R5,The software shall provide backup and recovery functionality.

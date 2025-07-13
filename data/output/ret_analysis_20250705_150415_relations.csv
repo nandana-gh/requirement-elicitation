@@ -1,0 +1,9 @@
+relation_id,proposition_id_1,proposition_id_2,relation_type,confidence,reasoning
+REL1,P1,P2,temporal_dependency,0.6,Temporal dependency detected
+REL2,P1,P3,functional_dependency,0.7,Functional dependency detected
+REL3,P1,P6,functional_dependency,0.7,Functional dependency detected
+REL4,P2,P3,temporal_dependency,0.6,Temporal dependency detected
+REL5,P2,P4,temporal_dependency,0.6,Temporal dependency detected
+REL6,P2,P5,temporal_dependency,0.6,Temporal dependency detected
+REL7,P2,P6,temporal_dependency,0.6,Temporal dependency detected
+REL8,P2,P7,temporal_dependency,0.6,Temporal dependency detected

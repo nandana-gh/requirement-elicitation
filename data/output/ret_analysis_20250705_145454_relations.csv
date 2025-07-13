@@ -1,0 +1,2 @@
+relation_id,proposition_id_1,proposition_id_2,relation_type,confidence,reasoning
+REL1,P1,P2,related,0.8971498012542725,Semantic similarity (0.90)

@@ -1,0 +1,8 @@
+proposition_id,requirement_id,proposition_statement,proposition_type
+P1,R1,shall accept user input,requirement
+P2,R1,validate it before processing,software_function
+P3,R2,must provide realtime monitoring of system performance,telemetry
+P4,R3,shall enable users to export data in multiple formats,telemetry
+P5,R4,must handle concurrent user sessions without conflicts,requirement
+P6,R5,shall provide backup,requirement
+P7,R5,recovery functionality,software_function
